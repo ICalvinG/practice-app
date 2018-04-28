@@ -27,6 +27,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Use figaro to properly set up ENV variables
 gem 'figaro'
+# Use google-sign-in by Basecamp for log in
+gem 'google_sign_in'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
